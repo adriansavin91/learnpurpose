@@ -1,2 +1,0 @@
-# learnpurpose
-HTML and CSS
